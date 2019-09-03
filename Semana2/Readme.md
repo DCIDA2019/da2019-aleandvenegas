@@ -1,3 +1,6 @@
+Tarea:
+TBD
+=======
 TAREA: 
 
 1.- Descargar todos los datos disponibles de https://smn.cna.gob.mx/es/climatologia/temperaturas-y-lluvias/resumenes-mensuales-de-temperaturas-y-lluvias

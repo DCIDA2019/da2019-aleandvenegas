@@ -1,0 +1,8 @@
+- Establecer las preguntas que nos gustaría responder usando las bases de datos:
+
+1.- Sueldos Base en Estado de Guanajuato.
+2.- Temperaturas y Precipitaciones.
+
+Las selección de preguntas a responder, después de la discusión en clase quedarán aquí:
+
+https://docs.google.com/document/d/1hbNKwYmCHrxRoYzLXhc6imSWyN2OvoUfQRBJRrk5o18/edit?usp=sharing
